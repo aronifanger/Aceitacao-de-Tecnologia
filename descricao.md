@@ -1,61 +1,61 @@
-# AvaliaÁ„o da aceitaÁ„o de jogos MMO
-## Pesquisa realizada com alunos da Unifesp-ICT (campus de S„o JosÈ dos Campos) e pessoas do Facebook nos anos de 2013 e 2014.
+# Avalia√ß√£o da aceita√ß√£o de jogos MMO
+## Pesquisa realizada com alunos da Unifesp-ICT (campus de S√£o Jos√© dos Campos) e pessoas do Facebook nos anos de 2013 e 2014.
 
-Os dados foram coletados por Aron Ifanger (aronifanger@gmail.com) a fim de serem utilizados para experimentos apresentados em seu trabalho de graduaÁ„o.
-
-
-### DescriÁ„o dos campos
+Os dados foram coletados por Aron Ifanger (aronifanger@gmail.com) a fim de serem utilizados para experimentos apresentados em seu trabalho de gradua√ß√£o.
 
 
-#### IdentificaÁ„o
-IndicaÁ„o de data e hora. (Fornecido pelo sistema - ID construÌdo de acordo com esta ordem.)
-ID - IdentificaÁ„o
+### Descri√ß√£o dos campos
+
+
+#### Identifica√ß√£o
+* Indica√ß√£o de data e hora. (Fornecido pelo sistema - ID constru√≠do de acordo com esta ordem.)
+* ID - Identifica√ß√£o
 
 #### Perfil
-InstEnsi: InstituiÁ„o de ensino. (Unifesp-ICT, Outra, Nenhuma)
-Sexo: Sexo. (Masculino, Feminino)
-Idade: Qual È a sua idade? (NumÈrico (0,inf))
-Jogou: J· teve algum contato com jogos "MMO" (Massively Multiplayer Online)? (1 - "Sim, jogo atualmente", 2 - "Sim, joguei h· menos de cinco anos.", 3 - "Sim, mas faz mais de cinco anos que n„o jogo.")
-Console: Qual tipo de console vocÍ utiliza para os jogos MMO? (1 - "Computador (Desktop/Notebook)", 2 - "Tablet", 3 - "Celular", 4 - "Videogame")
-TDeUso: Caso vocÍ tenha respondido que joga atualmente ou jogou alguma vez, nos diga h· quanto tempo joga. (Anos - (0,inf))
+* InstEnsi: Institui√ß√£o de ensino. (Unifesp-ICT, Outra, Nenhuma)
+* Sexo: Sexo. (Masculino, Feminino)
+* Idade: Qual √© a sua idade? (Num√©rico (0,inf))
+* Jogou: J√° teve algum contato com jogos "MMO" (Massively Multiplayer Online)? (1 - "Sim, jogo atualmente", 2 - "Sim, joguei h√° menos de cinco anos.", 3 - "Sim, mas faz mais de cinco anos que n√£o jogo.")
+* Console: Qual tipo de console voc√™ utiliza para os jogos MMO? (1 - "Computador (Desktop/Notebook)", 2 - "Tablet", 3 - "Celular", 4 - "Videogame")
+* TDeUso: Caso voc√™ tenha respondido que joga atualmente ou jogou alguma vez, nos diga h√° quanto tempo joga. (Anos - (0,inf))
 
-#### Dimens„o relacionada ao prazer
-Prazer_1: Ao jogar n„o percebo o tempo passar. (Likert 0 a 5)
-Prazer_2: Ao jogar costumo esquecer dos meus compromissos de trabalho e/ou estudo. (Likert 0 a 5)
-Prazer_3: Jogar È uma das minhas diversıes prediletas. (Likert 0 a 5)
-Prazer_4: Jogar faz parte da minha realizaÁ„o pessoal. (Likert 0 a 5)
-Prazer_5: Jogar estimula minha curiosidade. (Likert 0 a 5)
-Prazer_6: Jogar desperta minha imaginaÁ„o. (Likert 0 a 5)
-Prazer_7: Jogos com boa histÛria/trama s„o importantes para mim. (Likert 0 a 5)
-Prazer_8: Jogos com bons gr·ficos s„o importantes para mim. (Likert 0 a 5)
+#### Dimens√£o relacionada ao prazer
+* Prazer_1: Ao jogar n√£o percebo o tempo passar. (Likert 0 a 5)
+* Prazer_2: Ao jogar costumo esquecer dos meus compromissos de trabalho e/ou estudo. (Likert 0 a 5)
+* Prazer_3: Jogar √© uma das minhas divers√µes prediletas. (Likert 0 a 5)
+* Prazer_4: Jogar faz parte da minha realiza√ß√£o pessoal. (Likert 0 a 5)
+* Prazer_5: Jogar estimula minha curiosidade. (Likert 0 a 5)
+* Prazer_6: Jogar desperta minha imagina√ß√£o. (Likert 0 a 5)
+* Prazer_7: Jogos com boa hist√≥ria/trama s√£o importantes para mim. (Likert 0 a 5)
+* Prazer_8: Jogos com bons gr√°ficos s√£o importantes para mim. (Likert 0 a 5)
 
-#### Dimens„o relacionada ‡ facilidade
-Facil_1: Seria impossÌvel jogar sem o auxÌlio de alguÈm mais experiente. (Likert 0 a 5)
-Facil_2: … necess·rio dedicar um bom tempo para se aprender a jogar. (Likert 0 a 5)
-Facil_3: … f·cil relembrar como se joga. (Likert 0 a 5)
-Facil_4: Jogar requer um grande esforÁo mental. (Likert 0 a 5)
-Facil_5: … f·cil, para mim, aperfeiÁoar a habilidade de jogar. (Likert 0 a 5)
-Facil_6: Para mim È importante a jogabilidade. (Likert 0 a 5)
+#### Dimens√£o relacionada √† facilidade
+* Facil_1: Seria imposs√≠vel jogar sem o aux√≠lio de algu√©m mais experiente. (Likert 0 a 5)
+* Facil_2: √â necess√°rio dedicar um bom tempo para se aprender a jogar. (Likert 0 a 5)
+* Facil_3: √â f√°cil relembrar como se joga. (Likert 0 a 5)
+* Facil_4: Jogar requer um grande esfor√ßo mental. (Likert 0 a 5)
+* Facil_5: √â f√°cil, para mim, aperfei√ßoar a habilidade de jogar. (Likert 0 a 5)
+* Facil_6: Para mim √© importante a jogabilidade. (Likert 0 a 5)
 
-#### Dimens„o relacionada ‡ utilidade
-Utilid_1: As experiÍncias vivenciadas nos jogo s„o ˙teis na minha vida pessoal. (Likert 0 a 5)
-Utilid_2: Jogar aperfeiÁoa minhas habilidades no uso do computador.  (Likert 0 a 5)
-Utilid_3: Jogar aperfeiÁoa minhas habilidades lÛgicas. (Likert 0 a 5)
-Utilid_4: Jogar MMO melhora meu relacionamento com as pessoas. (Likert 0 a 5)
+#### Dimens√£o relacionada √† utilidade
+* Utilid_1: As experi√™ncias vivenciadas nos jogo s√£o √∫teis na minha vida pessoal. (Likert 0 a 5)
+* Utilid_2: Jogar aperfei√ßoa minhas habilidades no uso do computador.  (Likert 0 a 5)
+* Utilid_3: Jogar aperfei√ßoa minhas habilidades l√≥gicas. (Likert 0 a 5)
+* Utilid_4: Jogar MMO melhora meu relacionamento com as pessoas. (Likert 0 a 5)
 
-#### Dimens„o relacionada ao desejo
-Desejo_1: Tenho desejo de jogar sempre que tenho tempo livre. (Likert 0 a 5)
-Desejo_2: Tenho desejo de buscar novos jogos ou desafios nos jogos. (Likert 0 a 5)
-Desejo_3: Tenho desejo de compartilhar meus progressos com amigos e/ou conhecidos. (Likert 0 a 5)
-Desejo_4: Tenho desejo de aperfeiÁoar meus conhecimentos e habilidades para jogar melhor. (Likert 0 a 5)
+#### Dimens√£o relacionada ao desejo
+* Desejo_1: Tenho desejo de jogar sempre que tenho tempo livre. (Likert 0 a 5)
+* Desejo_2: Tenho desejo de buscar novos jogos ou desafios nos jogos. (Likert 0 a 5)
+* Desejo_3: Tenho desejo de compartilhar meus progressos com amigos e/ou conhecidos. (Likert 0 a 5)
+* Desejo_4: Tenho desejo de aperfei√ßoar meus conhecimentos e habilidades para jogar melhor. (Likert 0 a 5)
 
-#### Dimens„o relacionada ‡ intens„o de uso
-Intens_1: Continuarei ou irei jogar frequentemente no futuro. (Likert 0 a 5)
-Intens_2: Costumo pagar para jogar melhor (comprar crÈditos, conta premium etc). (Likert 0 a 5)
-Intens_3: Sempre que posso busco adquirir novos jogos ou sistemas (hardware) que me possibilitem jogar novidades. (Likert 0 a 5)
+#### Dimens√£o relacionada √† intens√£o de uso
+* Intens_1: Continuarei ou irei jogar frequentemente no futuro. (Likert 0 a 5)
+* Intens_2: Costumo pagar para jogar melhor (comprar cr√©ditos, conta premium etc). (Likert 0 a 5)
+* Intens_3: Sempre que posso busco adquirir novos jogos ou sistemas (hardware) que me possibilitem jogar novidades. (Likert 0 a 5)
 
-#### Dimens„o relacionada ao uso
-UsoAt_1: Com qual frequÍncia vocÍ costuma jogar MMO. (0 - "N„o jogo toda semana.", 1 - "PrÛximo de uma.", 3 - "PrÛximo de trÍs.", 7 - "Muitas, prÛximo de sete.", 10 - "Muitas vezes por dia.")
-UsoAt_2: Quantas horas vocÍ joga por semana jogos do tipo MMO?. (0 - "Menos de uma hora.", 5 - "De 1h a 10h por semana.", 15 - "De 10h a 20h por semana.", 25 - "De 20h a 30h por semana.", 5 - "Mais de 30h.")
-UsoLik_1: Vari·vel UsoAt_1 transformada em escala de Likert. (1 - "N„o jogo toda semana.", 2 - "PrÛximo de uma.", 3 - "PrÛximo de trÍs.", 4 - "Muitas, prÛximo de sete.", 5 - "Muitas vezes por dia.")
-UsoLik_2: Vari·vel UsoAt_2 transformada em escala de Likert. (1 - "Menos de uma hora.", 2 - "De 1h a 10h por semana.", 3 - "De 10h a 20h por semana.", 4 - "De 20h a 30h por semana.", 5 - "Mais de 30h.")
+#### Dimens√£o relacionada ao uso
+* UsoAt_1: Com qual frequ√™ncia voc√™ costuma jogar MMO. (0 - "N√£o jogo toda semana.", 1 - "Pr√≥ximo de uma.", 3 - "Pr√≥ximo de tr√™s.", 7 - "Muitas, pr√≥ximo de sete.", 10 - "Muitas vezes por dia.")
+* UsoAt_2: Quantas horas voc√™ joga por semana jogos do tipo MMO?. (0 - "Menos de uma hora.", 5 - "De 1h a 10h por semana.", 15 - "De 10h a 20h por semana.", 25 - "De 20h a 30h por semana.", 5 - "Mais de 30h.")
+* UsoLik_1: Vari√°vel UsoAt_1 transformada em escala de Likert. (1 - "N√£o jogo toda semana.", 2 - "Pr√≥ximo de uma.", 3 - "Pr√≥ximo de tr√™s.", 4 - "Muitas, pr√≥ximo de sete.", 5 - "Muitas vezes por dia.")
+* UsoLik_2: Vari√°vel UsoAt_2 transformada em escala de Likert. (1 - "Menos de uma hora.", 2 - "De 1h a 10h por semana.", 3 - "De 10h a 20h por semana.", 4 - "De 20h a 30h por semana.", 5 - "Mais de 30h.")
